@@ -1,0 +1,6 @@
+<permissions>
+    <privapp-permissions package="com.onn.hwinfo">
+        <permission name="android.permission.DELETE_PACKAGES" />
+    </privapp-permissions>
+</permissions>
+
