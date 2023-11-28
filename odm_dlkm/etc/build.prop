@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=onn
+ro.product.odm_dlkm.device=YOC
+ro.product.odm_dlkm.manufacturer=onn
+ro.product.odm_dlkm.model=onn. 4K Streaming Box
+ro.product.odm_dlkm.name=onn_4k_gtv
+ro.odm_dlkm.build.date=Wed Apr  5 00:57:56 UTC 2023
+ro.odm_dlkm.build.date.utc=1680656276
+ro.odm_dlkm.build.fingerprint=onn/onn_4k_gtv/YOC:12/SGZ1.221127.063.A1/9885170:user/release-keys
+ro.odm_dlkm.build.id=SGZ1.221127.063.A1
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=9885170
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+
