@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- These are configurations that should exist on Amati devices. -->
+<config>
+    <!-- This is meant to be the canonical feature identifying Amati devices. -->
+    <feature name="com.google.android.feature.AMATI_EXPERIENCE" />
+    <!-- Needed for enabling DPM for Unicorn accounts -->
+    <feature name="android.software.device_admin" />
+    <!-- whitelist launcherx to call HeadsUpAlert service while in background -->
+    <allow-in-power-save package="com.google.android.apps.tv.launcherx" />
+    <!-- Whitelist LauncherX to use the bugreport API -->
+    <bugreport-whitelisted package="com.google.android.apps.tv.launcherx" />
+</config>
